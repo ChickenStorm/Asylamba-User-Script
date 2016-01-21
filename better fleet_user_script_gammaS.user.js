@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name         better fleet Beta 2 and 3
-// @version      0.0.5.1
+// @version      0.0.5.2
 // @description  better fleet Beta 2 and 3
 // @author       ChickenStorm
 // @match        http://game.asylamba.com/s6/fleet/*
 // @match        http://game.asylamba.com/s7/fleet/*
 // @match        http://game.asylamba.com/s*/fleet/*
+// @updateURL	 https://github.com/ChickenStorm/Asylamba-User-Script/raw/master/better%20fleet_user_script_gammaS.user.js
 // @grant        none
 // ==/UserScript==
 
