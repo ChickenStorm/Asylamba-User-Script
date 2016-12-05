@@ -31,6 +31,7 @@ Copyright 2014-2015 ChickenStorm
 // hydre (pe): https://dl.dropboxusercontent.com/u/110049848/user_script_ressouces/picture/hydre.png
 // ph (pe): https://dl.dropboxusercontent.com/u/110049848/user_script_ressouces/picture/phenix.png
 
+//TODO: when assigning presets, sometimes place comes to lack in the squadron: remove big pev first ? or two passes ? check that the composition is good else retry ?
 
 var div_fleet = null;
 var div_dock = null;
